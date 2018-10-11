@@ -1,0 +1,16 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.Cache
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithması.MainForm.resources

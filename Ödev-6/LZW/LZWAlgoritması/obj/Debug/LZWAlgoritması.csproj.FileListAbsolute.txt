@@ -1,0 +1,17 @@
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgoritması.MainForm.resources
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgoritması.csproj.GenerateResource.Cache
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\bin\Debug\LZWAlgorithms.exe
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\bin\Debug\LZWAlgorithms.pdb
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgoritması.csprojResolveAssemblyReference.cache
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgoritması.MainForm.resources
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\MuhammedSaid\Desktop\Algoritmalar\Ödev-6\LZW\LZWAlgoritması\obj\Debug\LZWAlgoritması.csproj.GenerateResource.Cache
